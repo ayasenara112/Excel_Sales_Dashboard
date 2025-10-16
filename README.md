@@ -42,4 +42,4 @@ This project highlights:
 
 ## Author
 **Aya Gamal**  
-[LinkedIn](https:www.linkedin.com/in/aya-gamal-senara)
+[LinkedIn](https://www.linkedin.com/in/aya-gamal-senara)
